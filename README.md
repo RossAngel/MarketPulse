@@ -36,7 +36,6 @@ Design Trade-offs
 - Used Alpha Vantage free tier: subject to rate limiting.
 - Used Gemini free LLM for sentiment analysis: simple prompt, no fine-tuning.
 - Frontend is lightweight, focused on clarity and functionality.
-- Used react-json-view for debugging signals (despite legacy peer warnings).
 
 Next Steps
 
